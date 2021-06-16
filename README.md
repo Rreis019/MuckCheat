@@ -18,5 +18,7 @@ To inject you can use Who Unity Injector(Gui Version x64) from wh0am15533:https:
 
 
 Namespace:MuckCheat
+
 MainClass:Loader
+
 InitMethod:Init
