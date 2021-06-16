@@ -2,14 +2,23 @@
 
 Features:
 
+
 -GodMode
+
 -NoHunger
+
 -InfiniteJumps
+
 -SpeedHack
+
 -ItemEditor
+
 -DropRandomPowerUp
+
 -SpawnRandomMobs
+
 -SetDay
+
 
 Note: To open or close menu is INSERT
 
