@@ -1,5 +1,4 @@
 # MuckCheat
-
 <h2>Features</h2>
 <p>-GodMode</p>
 <p>-NoHunger</p>
